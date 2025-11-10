@@ -32,7 +32,7 @@ CrawlX is a comprehensive URL discovery tool designed for security researchers a
 
 ```bash
 # Clone the repository
-git clone https://github.com/VIRTUAL-VIRUZ/crawlx.git
+git clone https://github.com/7H3CYF4RX/crawlx.git
 cd crawlx
 
 # Install Python dependencies
@@ -305,7 +305,7 @@ Please consider:
 
 ### Reporting Issues
 
-Please report bugs and feature requests through [GitHub Issues](https://github.com/VIRTUAL-VIRUZ/crawlx/issues).
+Please report bugs and feature requests through [GitHub Issues](https://github.com/7H3CYF4RX/crawlx/issues).
 
 Include:
 - Operating system and Python version
